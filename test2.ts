@@ -1,3 +1,3 @@
 testttt
 
-dsfdsfsdfsd
+dsfdsfsdfsdsadasconst [propertyName] = arrayToDestruct;
